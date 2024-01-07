@@ -7,7 +7,6 @@ test('renders learn react link', () => {
 
   // Think of this as a comparison
   //Expect(a) means that a is being compared
-  expect(linkElement).to
 
   expect(linkElement).toBeInTheDocument();
 });
